@@ -44,3 +44,4 @@ C:\Users\Desktop-ARJ\Source\Repos\Mensageria-Net\ItemService\obj\Debug\net6.0\re
 C:\Users\Desktop-ARJ\Source\Repos\Mensageria-Net\ItemService\obj\Debug\net6.0\ItemService.pdb
 C:\Users\Desktop-ARJ\Source\Repos\Mensageria-Net\ItemService\obj\Debug\net6.0\ItemService.genruntimeconfig.cache
 C:\Users\Desktop-ARJ\Source\Repos\Mensageria-Net\ItemService\obj\Debug\net6.0\ref\ItemService.dll
+C:\Users\Desktop-ARJ\source\repos\Mensageria-Net\ItemService\bin\Debug\net6.0\System.Threading.Channels.dll
